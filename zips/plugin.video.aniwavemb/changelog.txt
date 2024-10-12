@@ -1,8 +1,5 @@
-1.2
-- fix
-
 1.1
-- logowanie
+- fix tv shows
 
 1.0
 - initial version

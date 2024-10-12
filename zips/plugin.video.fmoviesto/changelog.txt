@@ -1,3 +1,25 @@
+1.34
+- fix domain
+
+1.33
+- fix keys vidplay (https://github.com/Ciarands/)
+
+1.32
+- fix play vidplay,mcloud
+
+1.31
+- fix filemoon
+
+1.30
+- fix vrf decode - 03.03.24
+
+1.29
+- fix vidplay host
+
+1.28
+- fix vidplay host
+- fix getkey url
+
 1.27
 - fix PY2 (kodi18)
 
